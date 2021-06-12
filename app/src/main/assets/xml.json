@@ -1,0 +1,16 @@
+[
+  {
+    "city": "Mumbai",
+    "latitude": "18.96",
+    "longitude": "72.83",
+    "humidity": "80%",
+    "temperature": "32"
+  },
+  {
+    "city": "Kolkata",
+    "latitude": "22.54",
+    "longitude": "88.33",
+    "humidity": "82%",
+    "temperature": "33"
+  }
+]
